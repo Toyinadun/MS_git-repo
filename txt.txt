@@ -2,8 +2,13 @@ fdgdhqhisgshspibcbchqwbhyhdfghdgdh
 ggdgqyhiqsgvdw7wjhqscvggikjhd9dphw8
 gwghwygdgduquiqbqdwgduiowiw
 
+<<<<<<< HEAD
 Code addition from developer 2
 
 sbsbshjxnax bdvjnhxbksbvskjfklajfhv bdvjnhxbksbvskjfklajfhv
 bsbsghjajdbdffvjjsvgsjusgsgfjkakakakaashhshahshshsgsghajsh
 gvagahhsjsjsjsjdbfbjsjashsggkUSggsjsujUJuUUuUUJyhH
+=======
+ddgdgdgdghdhjgqvdvdhjkhgdgd
+gwsgeyyey1whdhdhiddiwiuwhwhw
+>>>>>>> 6bf7324 (Additional fron develop 1)
